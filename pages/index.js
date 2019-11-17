@@ -1,9 +1,9 @@
-import Link from 'next/link'
+import Link from "next/link";
 export default () => (
   <div>
-    Hello World.{' '}
-    <Link href='/about'>
-      <a>About</a>
+    Hello World. 1111ddd1{" "}
+    <Link href="/about">
+      <a>About aaaaa</a>
     </Link>
   </div>
-)
+);
