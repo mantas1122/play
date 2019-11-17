@@ -1,4 +1,3 @@
-import Fetch from "isomorphic-unfetch";
 import Layout from "../components/Layout";
 
 import Prices from "../components/Prices";
